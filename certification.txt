@@ -1,0 +1,23 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the XOX 2.0
+---------------------------------------------------
+
+app_name - 					XOX
+app_alias - 					xox
+app_author_name - 				Ayush Pareek
+app_author_organizational - 	                My Company
+app_author_organization - 		        My Company
+app_author_locality - 			        My Company
+app_author_state - 				KA
+app_author_country - 			        India
+app_password - 					NQ8u9AEOiHSf
+app_versionName - 				versionName "2.0"
+app_versionCode - 				200
+
+---------------------------------------------------
+The certification was created at WebIntoApp.com 
+
+https://www.webintoapp.com
+---------------------------------------------------
+
