@@ -11,7 +11,7 @@ App ID:			198854
 App Key:		QqdTfWuXIJlFgEuFmhZpOgTANbHSxRdt
 App Name:		XOX
 App Version:	        2.0
-Package:		com.ayushpareekr21.xox
+Package:		com.Vishard18.xox
 Mode:			Free App
 -------------------------------------
 
